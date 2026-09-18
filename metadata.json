@@ -1,0 +1,7 @@
+{
+  "name": "MICKO GARAGE OS",
+  "description": "Sistema integral de administración y control total para taller automotriz y repuestos de MICKO MOTORS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
